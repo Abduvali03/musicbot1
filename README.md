@@ -1,3 +1,3 @@
-# Telegram MusicBot
+# MusicBot
 
-Railway uchun tayyorlangan oddiy Aiogram bot.
+Railway uchun tayyorlangan Aiogram bot.
